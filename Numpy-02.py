@@ -3,6 +3,7 @@
 """examples of different dimensions in numpy """
 """we can find out the number of D by writting .ndim"""
 import numpy as np
+
 # D-0
 arrayD_0 = np.array(10)
 print(arrayD_0.ndim)
@@ -30,4 +31,4 @@ print(array_giving_D.ndim)
 """output:
 [[[[1 2 3 4]]]]
 4
-"""
+."""
