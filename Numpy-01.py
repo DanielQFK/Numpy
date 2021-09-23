@@ -22,8 +22,3 @@ print(array3)
 print(type(array3))
 """output:
 [1 2 3 4 5 6]
-<<<<<<< HEAD
-<class 'numpy.ndarray'>"""
-=======
-<class 'numpy.ndarray'>"""
->>>>>>> d50faab3a8cacea6b282d83e5b8083c1e118cb46
