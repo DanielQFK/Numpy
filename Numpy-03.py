@@ -1,4 +1,4 @@
-# NumPy Array Indexing...
+# NumPy Array Indexing
 import  numpy as np
 array = np.array([1, 'a', 2, 'b', 3])
 print(array[0])
