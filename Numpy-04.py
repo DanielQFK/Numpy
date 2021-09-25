@@ -28,8 +28,7 @@ print(array1D[::-1])
 """output[10  9  8  7  6  5  4  3  2  1  0]"""
 
 
-
-# Slicing 2-D Arrays
+# Slicing 2-D Arrays.
 array2D = np.array([[1, 2, 3, 4, 5],[6, 7, 8, 9, 10]])
 """after 3"""
 print(array2D[0, 2:5])
