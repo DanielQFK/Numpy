@@ -23,7 +23,7 @@ print(array2) # not only that but both the original one also has changed . it me
 """output:[10  2  3  4  5  6  7  8  9 10]"""
 
 
-# base
+# base...
 print(copy_array.base) # it shows 'None' because copy variables doesn't have a base 
 """output:None"""
 
