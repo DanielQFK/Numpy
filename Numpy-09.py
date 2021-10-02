@@ -1,4 +1,4 @@
-# Splitting NumPy Arrays
+# Splitting NumPy Arrays...
 import numpy as np
 array = np.array([1, 2, 3, 4, 5, 6])
 arr = np.array_split(array, 3) #1.array name ... 2.number of splites
