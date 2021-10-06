@@ -1,4 +1,4 @@
-# Sorting Arrays
+# Sorting Arrays...
 import numpy as np
 from numpy.core.fromnumeric import sort
 array1 = np.array([1, 6, 2, 4, 3, 5, 0])
