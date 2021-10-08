@@ -1,4 +1,4 @@
-# Filtering Arrays
+# Filtering Arrays...
 import numpy as np
 array1 = np.array([41, 42, 43, 44, 45, 46, 47])
 array2 = [True, False, True, False, False, False, True]
