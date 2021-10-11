@@ -1,7 +1,7 @@
 from numpy import random
 from numpy.random.mtrand import rand
 
-# Random Distribution(probability)
+# Random Distribution(probability)...
 Random_probablity = random.choice([1, 56, 23, 75], p=[0.2, 0.4, 0.2, 0.2], size=(100)) #The sum of all of probablities should be 1
 print(Random_probablity)
 """output:
