@@ -1,4 +1,4 @@
-# Generate Random Number
+# Generate Random Number...
 from numpy import array, random
 from numpy.random.mtrand import rand, randint
 Random = random.randint(100)
