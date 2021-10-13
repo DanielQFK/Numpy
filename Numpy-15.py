@@ -1,4 +1,4 @@
-# Random Permutations of Elements
+# Random Permutations of Elements...
 from numpy import random
 import numpy as np
 
