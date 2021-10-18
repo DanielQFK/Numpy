@@ -1,4 +1,4 @@
-# Random Value
+# Random Value...
 import numpy as np
 print(np.random.randint(7))
 """output will be random upto 7"""
